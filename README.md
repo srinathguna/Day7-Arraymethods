@@ -40,8 +40,9 @@ Run the file separate to view the output
 
 ## Output Screen shots
 
-
-
-
+![asia_countries](https://github.com/srinathguna/Day7-Arraymethods/assets/5001355/5e85ecca-dba8-48c3-b149-960c39a49a8a)
+![countries_population](https://github.com/srinathguna/Day7-Arraymethods/assets/5001355/5f79c890-1cb4-4932-96d1-1ee96485e1e7)
+![countries_name_capital_flag](https://github.com/srinathguna/Day7-Arraymethods/assets/5001355/c04eaed2-5d10-4729-a9fc-c93e161ee832)
+![population_currency](https://github.com/srinathguna/Day7-Arraymethods/assets/5001355/cc410422-6981-49f6-b830-b362c9e41ecc)
 
 
